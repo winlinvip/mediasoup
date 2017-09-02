@@ -10,3 +10,5 @@
 # Others
 /npm-debug.log
 /NO_GIT/
+
+package-lock.json
